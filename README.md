@@ -1,1 +1,1 @@
-# Sample Project Stock Data Warehose in the Cloud
+# Sample Project Stock Data Warehouse in the Cloud

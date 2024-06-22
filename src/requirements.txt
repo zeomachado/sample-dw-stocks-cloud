@@ -1,0 +1,8 @@
+pandas
+sqlalchemy
+python-dotenv
+#Postgres
+psycopg2-binary
+yfinance
+#google-cloud-bigquery
+#google-auth
